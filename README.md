@@ -11,5 +11,5 @@ This is a basic survey form project created as part of the FreeCodeCamp curricul
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/freecodecamp-survey-form.git
+   git clone https://github.com/cristmor/freecodecamp-survey-form.git
 
