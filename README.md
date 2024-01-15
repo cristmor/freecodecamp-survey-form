@@ -13,3 +13,5 @@ This is a basic survey form project created as part of the FreeCodeCamp curricul
    ```bash
    git clone https://github.com/cristmor/freecodecamp-survey-form.git
 
+2. Open index file in preferred browser
+
